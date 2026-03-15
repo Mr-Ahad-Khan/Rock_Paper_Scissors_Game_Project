@@ -43,16 +43,18 @@ in your web browser.
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
 ```
-Rock_Paper_Scissors_Game_Project
+.
+├── Rock_Paper_Scissors_Game_Project/
+│   ├── RPS project.html   # Main HTML file
+│   ├── RPS project.css    # Styling for the game
+│   └── RPS project.js     # Game logic
 │
-├── RPS project.html
-├── RPS project.css
-├── RPS project.js
-└── README.md
+└── README.md              # Project documentation
 ```
+
 
 ---
 
